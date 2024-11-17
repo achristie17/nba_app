@@ -1,0 +1,6 @@
+flask
+numpy
+matplotlib
+Flask-SQLAlchemy
+psycopg2
+mplsoccer
